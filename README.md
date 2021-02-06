@@ -1,6 +1,6 @@
 <h1 align="center">uwu</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Wanna OwO with me?</h3>
 <p align="left">
 <a href="https://twitter.com/ed0cinu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ed0cinu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC00PiPdVuUyHHktAtc95OnA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ed0cinu" height="30" width="40" /></a>
