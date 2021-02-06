@@ -1,11 +1,9 @@
 <h1 align="center">uwu</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ed0cinu" alt="ed0cinu" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ed0cinu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ed0cinu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ed0cinu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ed0cinu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC00PiPdVuUyHHktAtc95OnA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ed0cinu" height="30" width="40" /></a>
 <a href="https://discord.gg/MmZgMaFpAY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ed0cinU#6969" height="30" width="40" /></a>
 </p>
 
